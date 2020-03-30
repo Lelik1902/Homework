@@ -1,0 +1,76 @@
+{
+  "teachers": [
+    {
+      "id": "01",
+      "name": "Alexandr Bozhok",
+      "age": "25",
+      "favorite language": [
+        "Python",
+        "Java"
+      ]
+    },
+    {
+      "id": "02",
+      "name": "Yehor Somov",
+      "age": "23",
+      "favorite language": [
+        "C++",
+        "Python"
+      ]
+    },
+    {
+      "id": "03",
+      "name": "Alexandr Palii",
+      "age": "23",
+      "favorite language": [
+        "JavaScript",
+        "C++"
+      ]
+    },
+    {
+      "id": "04",
+      "name": "Vladyslav Horbaliuk",
+      "age": "22",
+      "favorite language": [
+        "Java",
+        "C++"
+      ]
+    },
+    {
+      "id": "05",
+      "name": "Igor Paliy",
+      "age": "22",
+      "favorite language": [
+        "C#"
+      ]
+    },
+    {
+      "id": "06",
+      "name": "Eugene Punov",
+      "age": "23",
+      "favorite language": [
+        "Java",
+        "C++",
+        "Python",
+        "C#"
+      ]
+    },
+    {
+      "id": "07",
+      "name": "Serhii Rupich",
+      "age": "27",
+      "favorite language": [
+        "C++",
+        "C#",
+        "Java"
+      ]
+    }
+  ],
+  "manager": [
+    {
+      "id": "01",
+      "name": "Natalia Karalna",
+      "age": "22"
+    }
+  ]
+}
